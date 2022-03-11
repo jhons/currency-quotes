@@ -21,10 +21,10 @@ Cargar las siguientes constantes, basado en el análisis de la página que desea
 *El contenedor donde esta el nombre de la moneda, puede ser un ```div```, ```p```, ```span```, etc. identificado con una ```class``` o un ```id```, ej. ```.moneda```*
 
 **```SCRAP_CURRENCY_BUY```**
-*El contenedor donde esta el precio de compra, puede ser un ```div```, ```p```, ```span```, etc. identificado con una ```class``` o un ```id```, ej. ```.moneda```*
+*El contenedor donde esta el precio de compra, puede ser un ```div```, ```p```, ```span```, etc. identificado con una ```class``` o un ```id```, ej. ```.compra```*
 
 **```SCRAP_CURRENCY_SELL```**
-*El contenedor donde esta el precio de venta, puede ser un ```div```, ```p```, ```span```, etc. identificado con una ```class``` o un ```id```, ej. ```.moneda```*
+*El contenedor donde esta el precio de venta, puede ser un ```div```, ```p```, ```span```, etc. identificado con una ```class``` o un ```id```, ej. ```.venta```*
 
 **```JSON_FILE```**
 *El nombre del fichero donde desea almacenar la cotización, ej. ```cotizacion.json```*
