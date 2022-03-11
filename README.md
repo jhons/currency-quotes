@@ -8,13 +8,20 @@
 ### Configuración del proyecto
 Ingresar al directorio del proyecto desde la consola
 
-Ejecutar ```npm install```
+Ejecutar:
+
+```shell
+npm install
+```
 
  
 
 Crear una copia del archivo ```.env.example``` con el nombre ```.env```
 
-Ejemplo: ```cp .env.example .env```
+Ejemplo: 
+```shell
+cp .env.example .env
+```
 
 
 Cargar las siguientes constantes, basado en el análisis de la página que desea extraer los datos de la cotización: 
