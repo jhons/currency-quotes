@@ -2,9 +2,17 @@
 
 ### Requisitos
 - Node
+- [Descargar](https://github.com/jhons/currency-quotes/archive/refs/heads/main.zip) o clonar este repositorio a un directorio de su preferencia
 
-### Configuración
+
+### Configuración del proyecto
+Ingresar al directorio del proyecto desde la consola
+
+Ejecutar ```npm install```
+
 Crear una copia del archivo ```.env.example``` con el nombre ```.env```
+
+```cp .env.example .env```
 
 Cargar las siguientes constantes, basado en el análisis de la página que desea extraer los datos de la cotización: 
 
@@ -45,6 +53,7 @@ Cargar las siguientes constantes, basado en el análisis de la página que desea
 ```
 
 ## Prueba
+*Para probar el script ejecute la siguiente linea desde su consola*
 
 ```shell
 node server.js
