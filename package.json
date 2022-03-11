@@ -1,0 +1,29 @@
+{
+  "name": "currency-quotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.0",
+    "puppeteer": "^13.5.1",
+    "random-useragent": "^0.5.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.21",
+    "@types/node-cron": "^3.0.1",
+    "@types/puppeteer": "^5.4.5",
+    "@types/request-promise": "^4.1.48"
+  }
+}
